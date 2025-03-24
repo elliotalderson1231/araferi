@@ -1,0 +1,18 @@
+
+body{
+    background-color: #333;
+}
+td{
+    border: 1px solid black;
+    background-color: lightgrey;
+}
+
+table{
+    border: 10px solid lightgrey;
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 300px;
+}
+ul li{
+    color: yellow !important;
+}
